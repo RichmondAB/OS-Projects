@@ -1,0 +1,3 @@
+What this shows is that the task strategy should be used when processing
+the data between iterations because they can more easily use previously completed tasks,
+while when tasks don't need to be shared as much a parallel for is more effective
