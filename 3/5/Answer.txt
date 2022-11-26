@@ -1,0 +1,3 @@
+The running time is much longer on the tansposed matrix operation
+This is probably due to the fact that it doesn't use the same data
+multiple times in the same thread
